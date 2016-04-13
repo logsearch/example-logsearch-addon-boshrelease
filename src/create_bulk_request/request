@@ -1,0 +1,2 @@
+{ "index" : { "_index" : "test", "_type" : "type1", "_id" : "1" } }
+{ "create" : { "_index" : "test", "_type" : "type1", "_id" : "3" } }
