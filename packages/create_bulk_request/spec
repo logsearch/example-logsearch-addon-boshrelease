@@ -1,7 +1,0 @@
----
-name: create_bulk_request
-
-dependencies: []
-
-files:
-  - create_bulk_request/**/*

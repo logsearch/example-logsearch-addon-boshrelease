@@ -1,0 +1,8 @@
+---
+name: bulk_request
+templates: {}
+
+packages:
+  - "bulk_request"
+
+properties: {}
